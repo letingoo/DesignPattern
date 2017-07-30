@@ -1,4 +1,4 @@
-# DesignPattern
+8# DesignPattern
 设计模式 implemented by Java
 
 # 所涉及到的设计模式
@@ -21,4 +21,4 @@
 
 ### 6. 观察者模式
 
-## 7
+## 78
